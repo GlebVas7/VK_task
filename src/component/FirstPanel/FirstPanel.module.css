@@ -1,0 +1,14 @@
+
+.content{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.text{
+    width: 450px;
+    height: 200px;
+}
+.btn{
+    margin-top: 10px;
+}
